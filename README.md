@@ -8,6 +8,7 @@
 ### 21 total points | 1 day streak
 
 - Upgraded to Codecademy Pro
+- Selected the Full Stack Learning Path
 
 ### Achievements
 - Code Achievement : Max Streak Count of 1
