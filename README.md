@@ -2,11 +2,11 @@
 
 ## Feb 28, 2017
 
-- Joined Codecademy
+- Signed up to Codecademy
 
 ## Mar 3, 2017 | 16 total points | 1 day streak
 
-- Upgraded to Codecademy / PRO
+- Upgraded to Codecademy Pro
 
 ### Achievements
 - Code Achievement : Max Streak Count of 1
