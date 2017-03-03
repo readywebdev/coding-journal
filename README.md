@@ -9,6 +9,8 @@
 
 - Upgraded to Codecademy Pro
 - Selected the Full Stack Learning Path
+- Completed the Intro to Full-Stack Course
+- Started the HTML & CSS Course
 
 ### Achievements
 - Code Achievement : Max Streak Count of 1
