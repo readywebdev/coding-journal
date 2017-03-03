@@ -5,7 +5,7 @@
 - Signed up to Codecademy
 
 ## Mar 3, 2017
-### 16 total points | 1 day streak
+### 21 total points | 1 day streak
 
 - Upgraded to Codecademy Pro
 
@@ -19,7 +19,12 @@
 - Code Achievement : Lesson Completed : About Final Projects
 - Code Achievement : Completed all Projects for Intro to Full-Stack
 - Code Achievement : Course Completed : Intro to Full-Stack
+- Code Achievement : HTML Basics
 
 ### Quizzes
 
 - First Quiz : Quiz Scorecard 100%
+
+### Code Challenges
+
+- Code Challenge 1 : 100% correct
