@@ -1,4 +1,4 @@
-# My Codecademy Journal
+# My Coding Journal
 
 ## Feb 28, 2017
 
