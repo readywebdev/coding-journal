@@ -2,7 +2,7 @@
 
 ## Feb 28, 2017
 
-- Signed up to Codecademy
+- Signed up for Codecademy
 
 ## Mar 3, 2017
 ### 21 total points | 1 day streak
@@ -11,6 +11,12 @@
 - Selected the Full Stack Learning Path
 - Completed the Intro to Full-Stack Course
 - Started the HTML & CSS Course
+- Signed up for GitHub
+- Created coding-journal Repository
+- Created readywebdev.github.io Repository for GitHub Pages
+- Installed & Configured Sublime Text 3
+- Set Up Local projects Folder
+- Created golden-gloves Sample Project
 
 ### Achievements
 - Code Achievement : Max Streak Count of 1
