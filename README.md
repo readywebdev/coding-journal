@@ -41,7 +41,7 @@
 - Code Challenge 1 : 100% correct
 
 ## Mar 4, 2017
-### 27 total points | 2 day streak
+### 31 total points | 2 day streak
 
 - Finished Introduction to HTML
 - Edited my website
