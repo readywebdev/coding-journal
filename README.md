@@ -8,15 +8,15 @@
 ### 21 total points | 1 day streak
 
 - Upgraded to Codecademy Pro
-- Selected the Full Stack Learning Path
-- Completed the Intro to Full-Stack Course
+- Selected the Full Stack learning path
+- Completed the Intro to Full-Stack course
 - Started the HTML & CSS Course
 - Signed up for GitHub
-- Created coding-journal Repository
-- Created readywebdev.github.io Repository for GitHub Pages
-- Installed & Configured Sublime Text 3
-- Set Up Local projects Folder
-- Created golden-gloves Sample Project
+- Created a coding-journal repository
+- Created a readywebdev.github.io repository for use with GitHub Pages
+- Installed and configured Sublime Text 3
+- Set up a local projects folder
+- Created the golden-gloves sample project
 
 ### Achievements
 - Code Achievement : Max Streak Count of 1
