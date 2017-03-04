@@ -7,6 +7,7 @@
 ## Mar 3, 2017
 ### 21 total points | 1 day streak
 
+- Installed Firefox Developer Edition
 - Upgraded to Codecademy Pro
 - Selected the Full Stack learning path
 - Completed the Intro to Full-Stack course
