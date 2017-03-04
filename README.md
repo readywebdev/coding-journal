@@ -11,7 +11,7 @@
 - Upgraded to Codecademy Pro
 - Selected the Full Stack learning path
 - Completed the Intro to Full-Stack course
-- Started the HTML & CSS Course
+- Started the HTML & CSS course
 - Signed up for GitHub
 - Created a coding-journal repository
 - Created a readywebdev.github.io repository for use with GitHub Pages
