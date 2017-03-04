@@ -50,3 +50,7 @@
 - 25 Exercises Badge Collected 
 - Code Achievement : Build Your Own Web Page
 - Code Achievement : Introduction to HTML
+
+### Quizzes
+
+- Introduction to HTML Quiz : Quiz Scorecard 100%
