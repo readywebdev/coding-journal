@@ -41,7 +41,7 @@
 - Code Challenge 1 : 100% correct
 
 ## Mar 4, 2017
-### 98 total points | 2 day streak
+### 104 total points | 2 day streak
 
 - Finished Introduction to HTML
 - Edited my website
@@ -66,12 +66,16 @@
 - Code Achievement : Pass HTML & CSS Unit 3 Quiz
 - Code Achievement : 75 points earned in one day
 - Code Achievement : CSS : An Overview
+- 100 Exercises Badge Collected
+- Code Achievement : Design a Button for Your Website
+- Code Achievement : Pass HTML & CSS Unit 4 Quiz
 
 ### Quizzes
 
 - Introduction to HTML Quiz : Quiz Scorecard 100%
 - HTML Structure : Using Lists Quiz : Quiz Scorecard 100%
 - HTML Structure : Tables, Divs, and Spans Quiz : Quiz Scorecard 100%
+- Introduction to CSS Quiz : Quiz Scorecard 100%
 
 ### Code Challenges
 
