@@ -15,7 +15,7 @@
 - Signed up for GitHub
 - Created a coding-journal repository
 - Created a readywebdev.github.io repository for use with GitHub Pages
-- Created and published home page
+- Created and published my website
 - Installed and configured Sublime Text 3
 - Set up a local projects folder
 - Created and published golden-gloves project
@@ -43,7 +43,9 @@
 ## Mar 4, 2017
 ### 27 total points | 2 day streak
 
-- Edited home page
+- Finished Introduction to HTML
+- Edited my website
+- Continued the HTML & CSS Course
 
 ### Achievements
 
