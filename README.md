@@ -39,3 +39,14 @@
 ### Code Challenges
 
 - Code Challenge 1 : 100% correct
+
+## Mar 4, 2017
+### 27 total points | 2 day streak
+
+- Edited my home page
+
+### Achievements
+
+- 25 Exercises Badge Collected 
+- Code Achievement : Build Your Own Web Page
+- Code Achievement : Introduction to HTML
