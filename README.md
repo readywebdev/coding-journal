@@ -41,7 +41,7 @@
 - Code Challenge 1 : 100% correct
 
 ## Mar 4, 2017
-### 50 total points | 2 day streak
+### 65 total points | 2 day streak
 
 - Finished Introduction to HTML
 - Edited my website
@@ -59,6 +59,7 @@
 - Code Achievement : Social Networking Profile
 - Code Achievement : HTML Structure : Using Lists
 - Code Achievement : Pass HTML & CSS Unit 2 Quiz
+- Code Achievement : HTML Basics III
 
 ### Quizzes
 
