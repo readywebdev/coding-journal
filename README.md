@@ -41,7 +41,7 @@
 - Code Challenge 1 : 100% correct
 
 ## Mar 4, 2017
-### 31 total points | 2 day streak
+### 43 total points | 2 day streak
 
 - Finished Introduction to HTML
 - Edited my website
@@ -53,7 +53,12 @@
 - Code Achievement : Build Your Own Web Page
 - Code Achievement : Introduction to HTML
 - Code Achievement : Pass HTML & CSS Unit 1 Quiz
+- Code Achievement : HTML Basics II
 
 ### Quizzes
 
 - Introduction to HTML Quiz : Quiz Scorecard 100%
+
+### Code Challenges
+
+- Code Challenge 2 : 100% correct
