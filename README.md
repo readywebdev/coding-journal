@@ -63,6 +63,7 @@
 ### Quizzes
 
 - Introduction to HTML Quiz : Quiz Scorecard 100%
+- HTML Structure : Using Lists Quiz : Quiz Scorecard 100%
 
 ### Code Challenges
 
