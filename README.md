@@ -15,9 +15,10 @@
 - Signed up for GitHub
 - Created a coding-journal repository
 - Created a readywebdev.github.io repository for use with GitHub Pages
+- Created and published home page
 - Installed and configured Sublime Text 3
 - Set up a local projects folder
-- Created the golden-gloves sample project
+- Created and published golden-gloves project
 
 ### Achievements
 - Code Achievement : Max Streak Count of 1
