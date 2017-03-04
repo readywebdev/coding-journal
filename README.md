@@ -41,7 +41,7 @@
 - Code Challenge 1 : 100% correct
 
 ## Mar 4, 2017
-### 104 total points | 2 day streak
+### 127 total points | 2 day streak
 
 - Finished Introduction to HTML
 - Edited my website
@@ -69,6 +69,8 @@
 - 100 Exercises Badge Collected
 - Code Achievement : Design a Button for Your Website
 - Code Achievement : Pass HTML & CSS Unit 4 Quiz
+- Code Achievement : 100 points earned in one day
+- Code Achievement : CSS Selectors
 
 ### Quizzes
 
@@ -82,3 +84,4 @@
 - Code Challenge 2 : 100% correct
 - Code Challenge 3 : 100% correct
 - Code Challenge 4 : 100% correct
+- Code Challenge 5 : 100% correct
