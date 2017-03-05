@@ -1,9 +1,11 @@
 # My Coding Journal
 
 ## Mar 5, 2017
-### 168 total points | 3 day streak | 1 skill completed
+### 168 total points | 3 day streak | Completed Skills 1
 
 - Continued the HTML & CSS Course
+- Completed Skill (HTML & CSS)
+- Started HTML & CSS Projects
 
 ### Achievements
 
@@ -28,7 +30,7 @@
 - Code Challenge 6 : 100% correct
 
 ## Mar 4, 2017
-### 127 total points | 2 day streak
+### 127 total points | 2 day streak | Completed Skills 0
 
 - Finished Introduction to HTML
 - Edited my website
@@ -74,7 +76,7 @@
 - Code Challenge 5 : 100% correct
 
 ## Mar 3, 2017
-### 21 total points | 1 day streak
+### 21 total points | 1 day streak | Completed Skills 0
 
 - Installed Firefox Developer Edition
 - Upgraded to Codecademy Pro
