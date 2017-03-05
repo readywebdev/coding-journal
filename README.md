@@ -19,11 +19,11 @@
 - Code Achievement : Complete all lessons in HTML & CSS
 - Code Achievement : Pass HTML & CSS Unit 6 Quiz
 - Code Achievement : Complete all units in HTML & CSS
+- Code Achievement : Completed Project Broadway
 
 ### Quizzes
 
 - CSS Classes and IDs Quiz : Quiz Scorecard 100%
-
 
 ### Code Challenges
 
