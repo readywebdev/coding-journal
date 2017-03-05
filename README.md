@@ -1,7 +1,7 @@
 # My Coding Journal
 
 ## Mar 5, 2017
-### 156 total points | 3 day streak
+### 168 total points | 3 day streak | 1 skill completed
 
 - Continued the HTML & CSS Course
 
@@ -10,7 +10,13 @@
 - Code Achievement : Max Streak Count of 3
 - Code Achievement : Sorting Your Friends
 - Code Achievement : CSS Classes and IDs
-- Code Achievement : Pass HTML & CSS Unit 5 Quiz 
+- Code Achievement : Pass HTML & CSS Unit 5 Quiz
+- Code Achievement : CSS Positioning
+- Code Achievement : Build a Resume
+- Code Achievement : CSS Element Positioning
+- Code Achievement : Complete all lessons in HTML & CSS
+- Code Achievement : Pass HTML & CSS Unit 6 Quiz
+- Code Achievement : Complete all units in HTML & CSS
 
 ### Quizzes
 
