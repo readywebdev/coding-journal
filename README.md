@@ -1,12 +1,17 @@
 # My Coding Journal
 
 ## Mar 6, 2017
-### 193 total points | 4 day streak | 1 completed skill
+### 210 total points | 4 day streak | 1 completed skill
 
 - Researched Codecademy course history from August 2011 to January 2012
 - Created "Codecademy Courses" document using Markdown
 - Started learning JavaScript
-- Started The Original "Getting Started with Programming" Course
+- Completed The Original "Getting Started with Programming" Course
+
+### Achievements
+
+- 200 Exercises Badge Collected
+- Code Achievement : The Original "Getting Started with Programming"
 
 ## Mar 5, 2017
 ### 168 total points | 3 day streak | 1 completed skill
