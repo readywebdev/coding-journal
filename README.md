@@ -1,5 +1,10 @@
 # My Coding Journal
 
+## Mar 6, 2017
+### 168 total points | 3 day streak | 1 completed skill
+
+- Nothing today yet!
+
 ## Mar 5, 2017
 ### 168 total points | 3 day streak | 1 completed skill
 
