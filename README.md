@@ -16,7 +16,7 @@
 ## Mar 5, 2017
 ### 168 total points | 3 day streak | 1 completed skill
 
-- Continued the HTML & CSS Course
+- Completed the HTML & CSS Course
 - Completed Skill (HTML & CSS)
 - Started HTML & CSS Projects
 
