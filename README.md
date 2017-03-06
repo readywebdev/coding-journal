@@ -1,7 +1,7 @@
 # My Coding Journal
 
 ## Mar 6, 2017
-### 187 total points | 4 day streak | 1 completed skill
+### 193 total points | 4 day streak | 1 completed skill
 
 - Researched Codecademy course history from August 2011 to January 2012
 - Created "Codecademy Courses" document using Markdown
