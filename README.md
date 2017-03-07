@@ -3,7 +3,7 @@
 ## Mar 7, 2017
 ### 215 total points | 5 day streak | 1 completed skill
 
-- Continue working on "Functions in JavaScript"
+- Continue working on Functions in JavaScript
 - Start JavaScript Quick Start Guide
 
 ## Mar 6, 2017
