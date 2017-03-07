@@ -1,10 +1,15 @@
 # My Coding Journal
 
 ## Mar 7, 2017
-### 215 total points | 5 day streak | 1 completed skill
+### 218 total points | 5 day streak | 1 completed skill
 
-- Continue working on Functions in JavaScript
-- Start JavaScript Quick Start Guide
+- Completed Functions in JavaScript (Lessons 1 to 3 of Review of Functions in JavaScript)
+- Started JavaScript Quick Start Guide (Lessons 1 to 8)
+
+## Achievements
+
+- Code Achievement : Max Streak Count of 5
+- Code Achievement : Review of Functions in JavaScript
 
 ## Mar 6, 2017
 ### 215 total points | 4 day streak | 1 completed skill
@@ -13,7 +18,7 @@
 - Created "Codecademy Courses" document using Markdown
 - Started learning JavaScript
 - Completed The Original "Getting Started with Programming" Course
-- Started Functions in JavaScript (First 3 Lessons of Review of Functions in JavaScript)
+- Started Functions in JavaScript (Lessons 1 to 3 of Review of Functions in JavaScript)
 
 ### Achievements
 
