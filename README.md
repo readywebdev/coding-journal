@@ -1,7 +1,7 @@
 # My Coding Journal
 
 ## Mar 7, 2017
-### 218 total points | 5 day streak | 1 completed skill
+### 224 total points | 5 day streak | 1 completed skill
 
 - Completed Functions in JavaScript (Lessons 1 to 3 of Review of Functions in JavaScript)
 - Researched Codecademy course history for early-2012 and Code Year
