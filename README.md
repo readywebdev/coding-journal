@@ -1,9 +1,9 @@
 # My Coding Journal
 
 ## Mar 8, 2017
-### 224 total points | 5 day streak | 1 completed skill
+### 231 total points | 6 day streak | 1 completed skill
 
-- Continue JavaScript Quick Start Guide (Lessons 1 to 8)
+- Continued JavaScript Quick Start Guide (Lessons 1 to 8)
 
 ## Mar 7, 2017
 ### 224 total points | 5 day streak | 1 completed skill
