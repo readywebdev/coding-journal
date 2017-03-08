@@ -3,6 +3,15 @@
 ## Mar 8, 2017
 ### 263 total points | 6 day streak | 1 completed skill
 
+- Start and complete The Document Object Model & jQuery
+- Start and complete FizzBuzz (Exercises 11 to 15)
+- Finish rest of Review of Functions in JavaScript (Exercises 9 to 23)
+- Finish rest of JavaScript Quick Start Guide (Exercises 46 to 71)
+- Search Google for early Codecademy users (2011) and look at achievements (badges) before 2012.
+
+## Mar 8, 2017
+### 263 total points | 6 day streak | 1 completed skill
+
 - Completed JavaScript Quick Start Guide (Lessons 1 to 8)
 
 ## Achievements
