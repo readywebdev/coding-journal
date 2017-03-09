@@ -1,6 +1,6 @@
 # My Coding Journal
 
-## Mar 8, 2017
+## Mar 9, 2017
 ### 263 total points | 6 day streak | 1 completed skill
 
 - Start and complete The Document Object Model & jQuery
