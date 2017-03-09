@@ -1,14 +1,14 @@
 # My Coding Journal
 
 ## Mar 9, 2017
-### 281 total points | 7 day streak | 1 completed skill
+### 309 total points | 7 day streak | 1 completed skill
 
 - Completed The Document Object Model & jQuery Course
 - Completed the FizzBuzz Course (Exercises 11 to 15)
 - Added the original FizzBuzz Course instructions to the Codecademy Courses document
 - Researched Codecademy courses up to June 2012
 - Researched Codecademy tracks up to August 2013
-- Start the Getting Started with Programming Version 2 Course
+- Completed the Getting Started with Programming Version 2 Course
 - Start the Fizz Buzz Extended Course
 - Finish rest of JavaScript Quick Start Guide (Exercises 46 to 71)
 - Start the Functions in JavaScript Course
@@ -18,6 +18,7 @@
 ## Achievements
 
 - Code Achievement : The Document Object Model & jQuery
+- Code Achievement : Getting Started with Programming
 
 ## Mar 8, 2017
 ### 263 total points | 6 day streak | 1 completed skill
