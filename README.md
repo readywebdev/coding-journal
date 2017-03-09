@@ -3,7 +3,7 @@
 ## Mar 9, 2017
 ### 276 total points | 6 day streak | 1 completed skill
 
-- Completed The Document Object Model & jQuery
+- Completed The Document Object Model & jQuery Course
 - Start and complete FizzBuzz (Exercises 11 to 15)
 - Finish rest of Review of Functions in JavaScript (Exercises 9 to 23)
 - Finish rest of JavaScript Quick Start Guide (Exercises 46 to 71)
@@ -16,7 +16,7 @@
 ## Mar 8, 2017
 ### 263 total points | 6 day streak | 1 completed skill
 
-- Completed JavaScript Quick Start Guide (Lessons 1 to 8)
+- Completed the JavaScript Quick Start Guide Course (Lessons 1 to 8)
 
 ## Achievements
 
@@ -25,9 +25,9 @@
 ## Mar 7, 2017
 ### 224 total points | 5 day streak | 1 completed skill
 
-- Completed Functions in JavaScript (Lessons 1 to 3 of Review of Functions in JavaScript)
+- Completed the Functions in JavaScript Course (Lessons 1 to 3 of Review of Functions in JavaScript)
 - Researched Codecademy course history for early-2012 and Code Year
-- Started JavaScript Quick Start Guide (Lessons 1 to 8)
+- Started the JavaScript Quick Start Guide Course (Lessons 1 to 8)
 
 ## Achievements
 
@@ -41,7 +41,7 @@
 - Created "Codecademy Courses" document using Markdown
 - Started learning JavaScript
 - Completed The Original "Getting Started with Programming" Course
-- Started Functions in JavaScript (Lessons 1 to 3 of Review of Functions in JavaScript)
+- Started the Functions in JavaScript Course (Lessons 1 to 3 of Review of Functions in JavaScript)
 
 ### Achievements
 
@@ -129,8 +129,8 @@
 - Installed Firefox Developer Edition
 - Upgraded to Codecademy Pro
 - Selected the Full Stack learning path
-- Completed the Intro to Full-Stack course
-- Started the HTML & CSS course
+- Completed the Intro to Full-Stack Course
+- Started the HTML & CSS Course
 - Signed up for GitHub
 - Created a coding-journal repository
 - Created a readywebdev.github.io repository for use with GitHub Pages
