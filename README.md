@@ -1,25 +1,31 @@
 # My Coding Journal
 
 ## Mar 10, 2017
-### 315 total points | 8 day streak | 1 completed skill
+### 319 total points | 8 day streak | 1 completed skill
 
-- Look at prime number exercise again!
-- Complete the Fizz Buzz Extended Course
-- Complete rest of JavaScript Quick Start Guide (Exercises 46 to 71)
+- Completed prime number mini-challenge
+- Completed the extended Fizz Buzz Course
+- Complete the extended JavaScript Quick Start Guide Course (Exercises 46 to 71)
 - Start the Functions in JavaScript Course
 - Start the Hello, New York Course
-- Complete rest of Review of Functions in JavaScript (Exercises 9 to 23)
+- Complete the extended Review of Functions in JavaScript Course (Exercises 9 to 23)
+- Research Codecademy courses
+- Research Codecademy tracks
+
+## Achievements
+
+- Code Achievement : FizzBuzz
 
 ## Mar 9, 2017
 ### 315 total points | 7 day streak | 1 completed skill
 
 - Completed The Document Object Model & jQuery Course
-- Completed the FizzBuzz Course (Exercises 11 to 15)
+- Completed the original FizzBuzz Course (Exercises 11 to 15)
 - Added the original FizzBuzz Course instructions to the Codecademy Courses document
 - Researched Codecademy courses up to June 2012
 - Researched Codecademy tracks up to August 2013
 - Completed the Getting Started with Programming Version 2 Course
-- Started the Fizz Buzz Extended Course
+- Started the extnended Fizz Buzz Course
 
 ## Achievements
 
