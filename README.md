@@ -14,8 +14,9 @@
   - http://web.archive.org/web/20120416002155/http://www.codecademy.com/tracks/code-year
 - Started the Functions in JavaScript Course
   - Note exercises 15 & 16 covering arrays were not in original version of this course
-- Complete the extended Review of Functions in JavaScript Course (Exercises 9 to 23)
+- Researched Code Year
 - Researched Codecademy staff/users
+- Complete the extended Review of Functions in JavaScript Course (Exercises 9 to 23)
 - Research Codecademy courses
 - Research Codecademy tracks
 
