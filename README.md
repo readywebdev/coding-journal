@@ -34,7 +34,7 @@
 - Researched Codecademy courses up to June 2012
 - Researched Codecademy tracks up to August 2013
 - Completed the Getting Started with Programming Version 2 Course
-- Started the extnended Fizz Buzz Course
+- Started the extended Fizz Buzz Course
 
 ## Achievements
 
