@@ -4,6 +4,8 @@
 ### 324 total points | 9 day streak | 1 completed skill
 
 - Started the extended JavaScript Quick Start Guide Course (Exercises 46 to 71)
+  - Exercise 47 doesn't appear to pass even though answer is correct.
+  - Exercise 52 is empty and thus, doesn't pass.
   - Complete exercise 54 after learning more about objects    
 - Start the Functions in JavaScript Course
 - Start the Hello, New York Course
