@@ -1,7 +1,7 @@
 # My Coding Journal
 
 ## Mar 11, 2017
-### 346 total points | 9 day streak | 1 completed skill
+### 348 total points | 9 day streak | 1 completed skill
 
 - Completed the extended JavaScript Quick Start Guide Course (Exercises 46 to 71)
   - Exercise 47 doesn't appear to pass even though answer is correct
@@ -13,6 +13,7 @@
 - Started on the whole Code Year Track
   - http://web.archive.org/web/20120416002155/http://www.codecademy.com/tracks/code-year
 - Started the Functions in JavaScript Course
+  - Note exercises 15 & 16 covering arrays were not in original version of this course
 - Complete the extended Review of Functions in JavaScript Course (Exercises 9 to 23)
 - Researched Codecademy staff/users
 - Research Codecademy courses
