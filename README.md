@@ -1,9 +1,14 @@
 # My Coding Journal
 
 ## Mar 12, 2017
-### 348 total points | 10 day streak | 1 completed skill
+### 367 total points | 10 day streak | 1 completed skill
 
-- Continued the Functions in JavaScript Course
+- Completed the Functions in JavaScript Course
+
+## Achievements
+
+- Code Achievement : Max Streak of 10
+- Code Achievement : Functions in JavaScript
 
 ## Mar 11, 2017
 ### 348 total points | 9 day streak | 1 completed skill
