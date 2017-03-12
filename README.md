@@ -6,7 +6,7 @@
 - Completed the Functions in JavaScript Course
 - Completed the original Hello, New York Course (Exercises 1 to 5)
 - Completed the extended Hello, New York Course (Exercises 6 to 10)
-- Complete the extended Review of Functions in JavaScript (Exercises 9 to 23)
+- Completed the extended Review of Functions in JavaScript (Exercises 9 to 23)
   - Exercises 16 to 22 don't pass even though answers are correct (known bugs)
   - Exercise 23 is unfinished and doesn't pass
 
