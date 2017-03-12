@@ -1,12 +1,13 @@
 # My Coding Journal
 
 ## Mar 12, 2017
-### 377 total points | 10 day streak | 1 completed skill
+### 386 total points | 10 day streak | 1 completed skill
 
 - Completed the Functions in JavaScript Course
 - Completed the original Hello, New York Course (Exercises 1 to 5)
 - Completed the extended Hello, New York Course (Exercises 6 to 10)
 - Complete the extended Review of Functions in JavaScript (Exercises 9 to 23)
+  - Exercise 18 doesn't pass even though answer is correct (known bug)
 
 ## Achievements
 
