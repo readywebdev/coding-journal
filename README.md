@@ -9,6 +9,7 @@
 - Completed the extended Review of Functions in JavaScript (Exercises 9 to 23)
   - Exercises 16 to 22 don't pass even though answers are correct (known bugs)
   - Exercise 23 is unfinished and doesn't pass
+- Started the Conditionals in JavaScript Course
 
 ## Achievements
 
