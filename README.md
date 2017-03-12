@@ -7,7 +7,8 @@
 - Completed the original Hello, New York Course (Exercises 1 to 5)
 - Completed the extended Hello, New York Course (Exercises 6 to 10)
 - Complete the extended Review of Functions in JavaScript (Exercises 9 to 23)
-  - Exercise 18 doesn't pass even though answer is correct (known bug)
+  - Exercises 16 to 22 don't pass even though answers are correct (known bugs)
+  - Exercise 23 is unfinished and doesn't pass
 
 ## Achievements
 
