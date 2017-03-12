@@ -5,7 +5,8 @@
 
 - Completed the Functions in JavaScript Course
 - Completed the original Hello, New York Course (Exercises 1 to 5)
-- Completed the extended Hello, New York Course (Exercises 6 to 10) 
+- Completed the extended Hello, New York Course (Exercises 6 to 10)
+- Complete the extended Review of Functions in JavaScript (Exercises 9 to 23)
 
 ## Achievements
 
@@ -21,7 +22,7 @@
   - Exercises 52, 65 and 66 are empty and thus, don't pass
   - Complete exercise 54 after learning more about objects
   - Exercise 61 is unfinished but still passes
-  - Revisit exercise 64 after learning more about functions
+  - Revisit exercise 64 after learning more about functions and recursion
   - Exercises 67 & 68 are unfinished and don't pass
 - Started on the whole Code Year Track
   - http://web.archive.org/web/20120416002155/http://www.codecademy.com/tracks/code-year
