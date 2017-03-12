@@ -1,5 +1,10 @@
 # My Coding Journal
 
+## Mar 12, 2017
+### 348 total points | 10 day streak | 1 completed skill
+
+- Continued the Functions in JavaScript Course
+
 ## Mar 11, 2017
 ### 348 total points | 9 day streak | 1 completed skill
 
@@ -16,9 +21,6 @@
   - Note exercises 15 & 16 covering arrays were not in original version of this course
 - Researched Code Year
 - Researched Codecademy staff/users
-- Complete the extended Review of Functions in JavaScript Course (Exercises 9 to 23)
-- Research Codecademy courses
-- Research Codecademy tracks
 
 ## Mar 10, 2017
 ### 320 total points | 8 day streak | 1 completed skill
