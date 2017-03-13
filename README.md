@@ -1,5 +1,10 @@
 # My Coding Journal
 
+## Mar 13, 2017
+### 399 total points | 11 day streak | 1 completed skill
+
+- Continued the Conditionals in JavaScript Course
+
 ## Mar 12, 2017
 ### 387 total points | 10 day streak | 1 completed skill
 
